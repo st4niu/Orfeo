@@ -1,6 +1,6 @@
 # Orfeo on GitHub: downloads and traffic
 
-**Last updated: 10. 11. 2026 at 14:01** Ljubljana time (CET) · updates daily from 07:00
+**Last updated: 11. 11. 2026 at 13:13** Ljubljana time (CET) · updates daily from 07:00
 
 [st4niu/Orfeo](https://github.com/st4niu/Orfeo) · ★ 0 stars · 0 forks · 0 watching
 
@@ -10,13 +10,13 @@
 
 | | All time | Last 7 days |
 |---|---:|---:|
-| **Downloads** (all systems) | <mark>**2 028**</mark> | <mark>**313**</mark> |
-| — Windows installer (`Orfeo-Setup-x.y.z.exe`) | 1 424 | 185 |
-| — Windows portable (`Orfeo-x.y.z-portable.exe`) | 604 | 128 |
+| **Downloads** (all systems) | <mark>**2 028**</mark> | <mark>**212**</mark> |
+| — Windows installer (`Orfeo-Setup-x.y.z.exe`) | 1 424 | 120 |
+| — Windows portable (`Orfeo-x.y.z-portable.exe`) | 604 | 92 |
 | — macOS (`.dmg`, `.zip`) | 0 | 0 |
 | — Linux (`.AppImage`, `.deb`, `.rpm`) | 0 | 0 |
-| App starts checking for updates (`latest.yml`) | 1 530 | 241 |
-| Updates installed (`.blockmap`) | 231 | 25 |
+| App starts checking for updates (`latest.yml`) | 1 530 | 175 |
+| Updates installed (`.blockmap`) | 231 | 16 |
 
 *Downloads* count each time a release file was downloaded. *App starts* count installed copies (Windows installer version) checking GitHub for a newer version when Orfeo starts, so they show the app being used, not just downloaded. The Windows portable, macOS and Linux versions do not check automatically.
 
@@ -42,13 +42,13 @@ Highlighted numbers are the ones closest to real people: downloads of the app an
 
 | Day | Windows installer | Windows portable | macOS | Linux | App starts | Page views | Unique visitors | Clones |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Wed 04 Nov | 65 | 36 | 0 | 0 | 66 | – | – | – |
 | Thu 05 Nov | 97 | 80 | 0 | 0 | 147 | – | – | – |
 | Fri 06 Nov | 23 | 12 | 0 | 0 | 28 | – | – | – |
 | Sat 07 Nov | – | – | – | – | – | – | – | – |
 | Sun 08 Nov | – | – | – | – | – | – | – | – |
 | Mon 09 Nov | – | – | – | – | – | – | – | – |
 | Tue 10 Nov | – | – | – | – | – | – | – | – |
+| Wed 11 Nov | – | – | – | – | – | – | – | – |
 
 Downloads per day start with the second day of tracking (they are the difference between two daily snapshots); views and clones go back 14 days before tracking started. Today's row is still growing.
 
